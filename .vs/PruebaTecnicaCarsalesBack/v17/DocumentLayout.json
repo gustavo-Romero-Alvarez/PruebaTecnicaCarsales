@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gusta\\source\\repos\\PruebaTecnicaCarsalesBack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC97905-8301-4CBD-8F3F-B225ABB8B7C6}|PruebaTecnicaCarsalesBack.csproj|c:\\users\\gusta\\source\\repos\\pruebatecnicacarsalesback\\controllers\\episodescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC97905-8301-4CBD-8F3F-B225ABB8B7C6}|PruebaTecnicaCarsalesBack.csproj|solutionrelative:controllers\\episodescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC97905-8301-4CBD-8F3F-B225ABB8B7C6}|PruebaTecnicaCarsalesBack.csproj|c:\\users\\gusta\\source\\repos\\pruebatecnicacarsalesback\\clients\\rickandmortyclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC97905-8301-4CBD-8F3F-B225ABB8B7C6}|PruebaTecnicaCarsalesBack.csproj|solutionrelative:clients\\rickandmortyclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC97905-8301-4CBD-8F3F-B225ABB8B7C6}|PruebaTecnicaCarsalesBack.csproj|c:\\users\\gusta\\source\\repos\\pruebatecnicacarsalesback\\services\\episodeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC97905-8301-4CBD-8F3F-B225ABB8B7C6}|PruebaTecnicaCarsalesBack.csproj|solutionrelative:services\\episodeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC97905-8301-4CBD-8F3F-B225ABB8B7C6}|PruebaTecnicaCarsalesBack.csproj|c:\\users\\gusta\\source\\repos\\pruebatecnicacarsalesback\\interfaces\\iepisodeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC97905-8301-4CBD-8F3F-B225ABB8B7C6}|PruebaTecnicaCarsalesBack.csproj|solutionrelative:interfaces\\iepisodeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC97905-8301-4CBD-8F3F-B225ABB8B7C6}|PruebaTecnicaCarsalesBack.csproj|c:\\users\\gusta\\source\\repos\\pruebatecnicacarsalesback\\models\\episodedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC97905-8301-4CBD-8F3F-B225ABB8B7C6}|PruebaTecnicaCarsalesBack.csproj|solutionrelative:models\\episodedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC97905-8301-4CBD-8F3F-B225ABB8B7C6}|PruebaTecnicaCarsalesBack.csproj|c:\\users\\gusta\\source\\repos\\pruebatecnicacarsalesback\\models\\episoderesponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC97905-8301-4CBD-8F3F-B225ABB8B7C6}|PruebaTecnicaCarsalesBack.csproj|solutionrelative:models\\episoderesponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC97905-8301-4CBD-8F3F-B225ABB8B7C6}|PruebaTecnicaCarsalesBack.csproj|c:\\users\\gusta\\source\\repos\\pruebatecnicacarsalesback\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC97905-8301-4CBD-8F3F-B225ABB8B7C6}|PruebaTecnicaCarsalesBack.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC97905-8301-4CBD-8F3F-B225ABB8B7C6}|PruebaTecnicaCarsalesBack.csproj|c:\\users\\gusta\\source\\repos\\pruebatecnicacarsalesback\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2BC97905-8301-4CBD-8F3F-B225ABB8B7C6}|PruebaTecnicaCarsalesBack.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC97905-8301-4CBD-8F3F-B225ABB8B7C6}|PruebaTecnicaCarsalesBack.csproj|c:\\users\\gusta\\source\\repos\\pruebatecnicacarsalesback\\models\\characterresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC97905-8301-4CBD-8F3F-B225ABB8B7C6}|PruebaTecnicaCarsalesBack.csproj|solutionrelative:models\\characterresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC97905-8301-4CBD-8F3F-B225ABB8B7C6}|PruebaTecnicaCarsalesBack.csproj|c:\\users\\gusta\\source\\repos\\pruebatecnicacarsalesback\\models\\locationitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC97905-8301-4CBD-8F3F-B225ABB8B7C6}|PruebaTecnicaCarsalesBack.csproj|solutionrelative:models\\locationitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC97905-8301-4CBD-8F3F-B225ABB8B7C6}|PruebaTecnicaCarsalesBack.csproj|c:\\users\\gusta\\source\\repos\\pruebatecnicacarsalesback\\models\\characteritem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC97905-8301-4CBD-8F3F-B225ABB8B7C6}|PruebaTecnicaCarsalesBack.csproj|solutionrelative:models\\characteritem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC97905-8301-4CBD-8F3F-B225ABB8B7C6}|PruebaTecnicaCarsalesBack.csproj|c:\\users\\gusta\\source\\repos\\pruebatecnicacarsalesback\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC97905-8301-4CBD-8F3F-B225ABB8B7C6}|PruebaTecnicaCarsalesBack.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC97905-8301-4CBD-8F3F-B225ABB8B7C6}|PruebaTecnicaCarsalesBack.csproj|c:\\users\\gusta\\source\\repos\\pruebatecnicacarsalesback\\middlewares\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC97905-8301-4CBD-8F3F-B225ABB8B7C6}|PruebaTecnicaCarsalesBack.csproj|solutionrelative:middlewares\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RickAndMortyClient.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\PruebaTecnicaCarsalesBack\\Clients\\RickAndMortyClient.cs",
+              "RelativeDocumentMoniker": "Clients\\RickAndMortyClient.cs",
+              "ToolTip": "C:\\Users\\gusta\\source\\repos\\PruebaTecnicaCarsalesBack\\Clients\\RickAndMortyClient.cs",
+              "RelativeToolTip": "Clients\\RickAndMortyClient.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAADgvygAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T15:05:36.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EpisodeService.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\PruebaTecnicaCarsalesBack\\Services\\EpisodeService.cs",
+              "RelativeDocumentMoniker": "Services\\EpisodeService.cs",
+              "ToolTip": "C:\\Users\\gusta\\source\\repos\\PruebaTecnicaCarsalesBack\\Services\\EpisodeService.cs",
+              "RelativeToolTip": "Services\\EpisodeService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T13:53:04.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EpisodesController.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\PruebaTecnicaCarsalesBack\\Controllers\\EpisodesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EpisodesController.cs",
+              "ToolTip": "C:\\Users\\gusta\\source\\repos\\PruebaTecnicaCarsalesBack\\Controllers\\EpisodesController.cs",
+              "RelativeToolTip": "Controllers\\EpisodesController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T13:37:01.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EpisodeResponse.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\PruebaTecnicaCarsalesBack\\Models\\EpisodeResponse.cs",
+              "RelativeDocumentMoniker": "Models\\EpisodeResponse.cs",
+              "ToolTip": "C:\\Users\\gusta\\source\\repos\\PruebaTecnicaCarsalesBack\\Models\\EpisodeResponse.cs",
+              "RelativeToolTip": "Models\\EpisodeResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T14:40:00.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CharacterResponse.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\PruebaTecnicaCarsalesBack\\Models\\CharacterResponse.cs",
+              "RelativeDocumentMoniker": "Models\\CharacterResponse.cs",
+              "ToolTip": "C:\\Users\\gusta\\source\\repos\\PruebaTecnicaCarsalesBack\\Models\\CharacterResponse.cs",
+              "RelativeToolTip": "Models\\CharacterResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T14:33:51.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LocationItem.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\PruebaTecnicaCarsalesBack\\Models\\LocationItem.cs",
+              "RelativeDocumentMoniker": "Models\\LocationItem.cs",
+              "ToolTip": "C:\\Users\\gusta\\source\\repos\\PruebaTecnicaCarsalesBack\\Models\\LocationItem.cs",
+              "RelativeToolTip": "Models\\LocationItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T14:34:14.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EpisodeDto.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\PruebaTecnicaCarsalesBack\\Models\\EpisodeDto.cs",
+              "RelativeDocumentMoniker": "Models\\EpisodeDto.cs",
+              "ToolTip": "C:\\Users\\gusta\\source\\repos\\PruebaTecnicaCarsalesBack\\Models\\EpisodeDto.cs",
+              "RelativeToolTip": "Models\\EpisodeDto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAswBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T13:54:23.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CharacterItem.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\PruebaTecnicaCarsalesBack\\Models\\CharacterItem.cs",
+              "RelativeDocumentMoniker": "Models\\CharacterItem.cs",
+              "ToolTip": "C:\\Users\\gusta\\source\\repos\\PruebaTecnicaCarsalesBack\\Models\\CharacterItem.cs",
+              "RelativeToolTip": "Models\\CharacterItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T14:32:35.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEpisodeService.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\PruebaTecnicaCarsalesBack\\Interfaces\\IEpisodeService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IEpisodeService.cs",
+              "ToolTip": "C:\\Users\\gusta\\source\\repos\\PruebaTecnicaCarsalesBack\\Interfaces\\IEpisodeService.cs",
+              "RelativeToolTip": "Interfaces\\IEpisodeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T13:52:20.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\PruebaTecnicaCarsalesBack\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\gusta\\source\\repos\\PruebaTecnicaCarsalesBack\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T13:19:07.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\PruebaTecnicaCarsalesBack\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\gusta\\source\\repos\\PruebaTecnicaCarsalesBack\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-14T13:16:31.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ErrorHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\PruebaTecnicaCarsalesBack\\Middlewares\\ErrorHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "Middlewares\\ErrorHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\gusta\\source\\repos\\PruebaTecnicaCarsalesBack\\Middlewares\\ErrorHandlingMiddleware.cs",
+              "RelativeToolTip": "Middlewares\\ErrorHandlingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T13:55:22.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\PruebaTecnicaCarsalesBack\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\gusta\\source\\repos\\PruebaTecnicaCarsalesBack\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T14:21:36.713Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
